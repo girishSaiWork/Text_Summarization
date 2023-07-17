@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.vscode/*
 *textSum/*
+*textSummarizer.egg-info/*
 
 # C extensions
 *.so
